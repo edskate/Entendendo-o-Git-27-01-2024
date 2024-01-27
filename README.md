@@ -8,8 +8,8 @@
    de Comandos incomument rico que oferce operações 
    de alto nivel e acesso completo ao seus recursos .
  ```
- ### Nome = git introduções git:
- ### Descrição:
+ # Nome = git introduções git:
+ ## Descrição:
  ```
 Este Topico explica Como importar um nome  projeto para 
  o git  fazer alterações nele e compartilhar as alterações 
